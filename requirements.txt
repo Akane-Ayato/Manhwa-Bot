@@ -1,0 +1,17 @@
+curl_cffi>=0.5.0
+cloudscraper
+bs4
+reportlab
+pillow
+loguru
+kurigram
+tgcrypto
+pillow-avif-plugin # for avif files
+pillow-heif # for heif files
+pymongo>=4.9 # AsyncMongoClient is used (added in 4.9)
+PyPDF2
+psutil
+flask
+gunicorn
+cairosvg
+uvloop==0.21.0
