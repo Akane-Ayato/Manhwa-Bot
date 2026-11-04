@@ -1,6 +1,8 @@
 import os
 from time import time
+from dotenv import load_dotenv
 
+load_dotenv() 
 DEFAULT_SETTINGS = {}
 Bot_cmds = {}
 
